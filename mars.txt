@@ -5,3 +5,4 @@ We removed the conflict on this line
 This line is added to Wolfman's copy
 This line is add to Dracula's copt
 Another line is added to Wolfman's copy
+Another new line is added to Wolfman's copy
